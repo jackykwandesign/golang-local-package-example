@@ -1,8 +1,6 @@
 ### How to import golang local package in module mode
 
-```
-https://medium.com/faun/golang-package-management-using-go-modules-d3c929900114
-```
+Reference: https://medium.com/faun/golang-package-management-using-go-modules-d3c929900114
 
 #### In root, open terminal and run
 ```
